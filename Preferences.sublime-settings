@@ -3,6 +3,7 @@
 	"color_scheme": "Packages/Base16 Color Schemes/base16-tomorrow.dark.tmTheme",
 	"draw_white_space": "selection",
 	"font_size": 10,
+	"font_face": "Hack",
 	"haxe_nme_target": 25,
 	"ignored_packages":
 	[

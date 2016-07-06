@@ -1,5 +1,6 @@
 [
 	{ "keys": ["ctrl+v"], "command": "paste_and_indent" },
-    { "keys": ["ctrl+shift+v"], "command": "paste" },
-    { "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
+  { "keys": ["ctrl+shift+v"], "command": "paste" },
+  { "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
+  { "keys": ["ctrl+shift+o"], "command" : "prompt_open_folder" }
 ]

@@ -1,15 +1,12 @@
 {
+	"auto_match_enabled": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Base16 Color Schemes/base16-tomorrow.dark.tmTheme",
-	"draw_white_space": "selection",
-	"font_size": 10,
-	"font_face": "Hack",
+	"color_scheme": "Packages/User/SublimeLinter/base16-tomorrow.dark (SL).tmTheme",
+	"default_line_ending": "unix",
+	"font_face": "hack",
 	"haxe_nme_target": 25,
 	"ignored_packages":
 	[
-		"Markdown",
-		"sublime_flow",
-		"sublime_haxe",
 		"Vintage"
 	],
 	"rulers":
@@ -18,8 +15,8 @@
 	],
 	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
-	"tab_size": 4,
 	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
 }
